@@ -100,6 +100,18 @@ form{
     cursor: pointer;
    /* display: none;*/
 }
+.haut{
+    border:none;
+ padding: 10px 15px;
+ text-align: center;
+ text-decoration: none;
+ margin-left: 1800px;
+ cursor: pointer;
+ color: white;
+ background-color: red;
+
+
+}
 @media screen and (max-width: 786px)
 {.search-result
     {
