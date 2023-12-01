@@ -100,3 +100,27 @@ form{
     cursor: pointer;
    /* display: none;*/
 }
+@media screen and (max-width: 786px)
+{.search-result
+    {
+    
+       width: 45%;
+      
+    }
+
+    .search-results
+    {
+    padding: 20px;
+      
+    }
+
+}
+@media screen and (max-width: 480px)
+{.search-result
+    {
+    
+       width: 100%;
+      
+    }
+
+}
